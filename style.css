@@ -1,0 +1,21 @@
+.stuff{
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.Signup{
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: url("./Pictures/goonmaterial.jpeg");
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+}
